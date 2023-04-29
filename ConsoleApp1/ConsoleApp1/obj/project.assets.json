@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renjie\\Desktop\\新建文件夹 (2)\\123123\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\renjie\\Desktop\\新建文件夹 (3)\\123123\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\renjie\\Desktop\\新建文件夹 (2)\\123123\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\renjie\\Desktop\\新建文件夹 (3)\\123123\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\renjie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renjie\\Desktop\\新建文件夹 (2)\\123123\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\renjie\\Desktop\\新建文件夹 (3)\\123123\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\renjie\\AppData\\Roaming\\NuGet\\NuGet.Config",
